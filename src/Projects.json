@@ -1,0 +1,30 @@
+[
+	{
+		"id":1
+		,"title":"Complaint portal website"
+		,"description":"Building a web application which would act as a complaint portal for our university. I am working on front end development."
+		,"tech":["Reactjs","HTML","CSS","JavaScript","Node js","Express js","Mongo DB"]
+		,"link":"https://github.com/zense/Complaint-Portal"
+	}
+	,{
+		"id":2
+		,"title":"Zombie Shooter Game"
+		,"description":"Built a game in which player shoots zombies to create a high score in C++ using SDL2 library."
+		,"tech":["C++","SDL-2 library"]
+		,"link":"https://github.com/pushkarpawar15/SDL_CPP_-Game"
+	}
+	,{
+		"id":3
+		,"title":"Space Adventure Game"
+		,"description":"Built a simple game in python using pygame library."
+		,"tech":["python","pygame library"]
+		,"link":"https://github.com/pushkarpawar15/Pygame-Space-Adventure"
+	}
+	,{
+		"id":4
+		,"title":"Uncompressed GIF to 24-bit BMP image convertor"
+		,"description":"Built a image converter using C. I mainly worked on BMP part"
+		,"tech":["C"]
+		,"link":"https://github.com/pushkarpawar15/Uncompressed-GIF-to-24-bit-BMP-convertor"
+	}
+]
