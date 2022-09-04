@@ -1,0 +1,42 @@
+[
+	{
+		"id":1
+		,"title":"C++ mini projects"
+		,"projects":[
+			{
+				"item":"Implementation of Doubly Connected Edge list."
+				,"link":"https://github.com/pushkarpawar15/Implementation-of-Doubly-Connected-Edge-list"
+			},
+			{
+				"item":"Simple Socail Media model"
+				,"link":"https://github.com/pushkarpawar15/Simple-Socail-Media-model"
+			},
+			{
+				"item":"Built IAS-machine simulator in C++."
+				,"link":"Built IAS-machine simulator in C++."
+			},
+			{
+				"item":"Designed a direct-mapped cache in C++."
+				,"link":"Designed a direct-mapped cache in C++."
+			}
+		]
+	},
+	{
+		"id":1
+		,"title":"Java mini projects"
+		,"projects":[
+			{
+				"item":"Implementation of simple fault tolerant agreement in java."
+				,"link":"https://github.com/pushkarpawar15/Fault-tolerant-agreement"
+			},
+			{
+				"item":"Built OTP authentication system using java."
+				,"link":"https://github.com/pushkarpawar15/OTP-authentication-simulator"
+			},
+			{
+				"item":"Modelled functionality of simple GUI in java."
+				,"link":"https://github.com/pushkarpawar15/Modelling-functionality-of-simple-GUI"
+			}
+		]
+	}
+]
