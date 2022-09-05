@@ -2,12 +2,19 @@
 @tailwind components;
 @tailwind utilities;
 
+
 @layer components
 {
 	.side-buttons
 	{
 		@apply hover:bg-white hover:text-4xl hover:text-green-600 hover:shadow-inner hover:animate-bounce
 		rounded-xl w-2/3 h-16
+		transition-all duration-500 ease-in-out;
+	}
+	.side-icons
+	{
+		@apply hover:bg-black hover:text-3xl hover:shadow-xl hover:text-white
+		rounded-xl w-2/3 h-16 p-2
 		transition-all duration-500 ease-in-out;
 	}
 }
