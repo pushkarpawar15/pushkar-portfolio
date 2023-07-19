@@ -18,7 +18,7 @@ export default function RsideNav(props) {
         enterTo="transform translate-y-0">
 		    <li><button class="side-buttons min-w-fit min-h-fit" onClick={()=>{props.setNav(0);props.setNavStat()}}>Home</button></li><br/>
         <li><button class="side-buttons min-w-fit min-h-fit" onClick={()=>{props.setNav(1);props.setNavStat()}}>Projects</button></li><br/>
-        <li><a href='https://drive.google.com/file/d/11tmHwQ9micTivpH7xeshQVFOz5pdtkcZ/view?usp=sharing' target="_blank" onClick={()=>{props.setNavStat()}}><button class="side-buttons min-w-fit min-h-fit" onCLick={()=>{props.setNavStat()}}>Resume</button></a></li><br/>
+        <li><a href='https://drive.google.com/file/d/1XAkF5Bo5NjmWCXHn4r5ghyERgZF2YGNi/view?usp=sharing' target="_blank" onClick={()=>{props.setNavStat()}}><button class="side-buttons min-w-fit min-h-fit" onCLick={()=>{props.setNavStat()}}>Resume</button></a></li><br/>
         <li><button class="side-buttons min-w-fit min-h-fit" onClick={()=>{setContactActive(!contactActive)}} >Contact</button></li><br/>
 	    </Transition>
       <Transition as="div"
